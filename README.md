@@ -8,6 +8,7 @@ results, and more — using a pre-trained **Support Vector Machine (SVM)** model
 > It is **not** a substitute for professional medical advice, diagnosis, or treatment.
 
 ---
+🔗 **Live App:** [heart-stroke-prediction.streamlit.app](https://heart-stroke-prediction.streamlit.app)
 
 ## 🚀 Features
 
